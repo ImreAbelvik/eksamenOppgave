@@ -1,0 +1,15 @@
+Microsof Windows 10 - Microsof Windows Versjon 1909
+   Paint 3D
+
+Microsoft Word - version 2010
+
+
+Google Chrome - Versjon 86.0.4240.198 (Offisiell delversjon) (64-bit)
+
+Visual Studio Code - Version: 1.51.1 (user setup)
+Extensions:
+   JavaScript (ES6) code snippets - v1.8.0
+   Live Server - v5.6.1
+
+Audacity - Version: 2.4.2
+

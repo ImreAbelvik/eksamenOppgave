@@ -1,0 +1,79 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body {
+    background-color: rgb(194, 220, 243);
+
+    display: grid;
+    place-items: center;
+}
+
+.box {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 0.4em;
+    background-color: lightgreen;
+    border-radius: 5px;
+    margin-bottom: 1.2em;
+}
+
+button:active {
+    font-size: 1.3em;
+    background-color: rgb(65, 236, 65);
+}
+
+p {
+    font-size: 1.1em;
+}
+
+#myCanvas {
+    margin: 1em;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: white;
+}
+
+input {
+    margin: 1em 0.5em;
+    font-size: 1.2;
+    padding: 0.5em 1em; 
+}
+
+select {
+    font-size: 1.2em;
+    padding: 0.3em 1em;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    padding: 1em;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+td {
+    border: 1px solid black;
+    padding: 1em;
+    font-size: 1.2em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.buttonEl {
+    margin: 1em;
+}
